@@ -56,6 +56,8 @@
 ## How to check patterns like startsWith() and endsWith()
 
 ## How to build a small interactive tool without a tutorial
+<br>
+🎄 
 
-🎄 ## **Why this project**
+## **Why this project**
 ### This is one of the JavaScriptmas challenges from Scrimba — short, fun exercises that help build real JavaScript skills through small, self‑contained projects.
