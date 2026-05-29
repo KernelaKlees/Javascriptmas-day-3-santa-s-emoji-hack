@@ -49,13 +49,13 @@
 🚀
 
 ## **What I learned**
-## How to manipulate the DOM with getElementById and innerText
+### How to manipulate the DOM with getElementById and innerText
 
-## How to process strings using split, map, and join
+### How to process strings using split, map, and join
 
-## How to check patterns like startsWith() and endsWith()
+### How to check patterns like startsWith() and endsWith()
 
-## How to build a small interactive tool without a tutorial
+### How to build a small interactive tool without a tutorial
 <br>
 🎄 
 
