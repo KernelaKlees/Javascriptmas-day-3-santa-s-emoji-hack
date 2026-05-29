@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: darkred;
+    margin-top: 50px;
+}
+
+#result {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
