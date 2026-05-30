@@ -25,3 +25,6 @@ const outputPhrase = emojifyPhrase(inputPhrase);
 
 const resultElement = document.getElementById('result');
 resultElement.innerText = `Original: ${inputPhrase}\n\nEmojified: ${outputPhrase}`;
+
+// force update
+
