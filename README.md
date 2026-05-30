@@ -1,4 +1,4 @@
-# **Santa’s Emoji Hack – JavaScriptmas Day 3**
+# **JavaScriptmas Day 3 - Santa’s Emoji Hack**
 
 ### A small JavaScript mini‑project that takes a user’s phrase and transforms valid :emoji: codes into real emojis.
 ### The app shows both the original text and the emojified version using simple DOM manipulation.
